@@ -1,6 +1,6 @@
-# KEJU-BW16 | Dual-Band WiFi Dashboard
+# KEJU-BW16-V1X | Dual-Band WiFi Dashboard
 
-The **KEJU-BW16** is a specialized wireless auditing tool built on the **Realtek RTL8720DN (BW16)** architecture. Unlike standard 2.4GHz tools, this device utilizes the AmebaD dual-core processor to monitor and interact with both 2.4GHz and 5GHz network environments.
+The **KEJU-BW16-V1X** is a specialized wireless auditing tool built on the **Realtek RTL8720DN (BW16)** architecture. Unlike standard 2.4GHz tools, this device utilizes the AmebaD dual-core processor to monitor and interact with both 2.4GHz and 5GHz network environments.
 
 ## 🛠 Hardware Specifications
 - **Core**: BW16 (AmebaD RTL8720DN) ARM Cortex-M4 + M0.
